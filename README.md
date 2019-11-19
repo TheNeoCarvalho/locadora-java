@@ -1,4 +1,4 @@
 # Locadora - Projeto Banco de Dados
 
 ## 20/11
-[] Criando estruturas de pastas
+- [x] Criando estruturas de pastas
